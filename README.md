@@ -10,10 +10,10 @@ This is an **Ideation Laboratory project** where our team identifies social-rela
 
 #### Team Members
 
-- **Nasrin Fathima** - Team Leader & Project Coordinator | [GitHub](https://github.com/nasrin-fathima)
-- **Siva** - Developer | [GitHub](https://github.com/sivam)
-- **Essaki Raja** - Developer | [GitHub](https://github.com/essaki-raja)
-- **Caroline Grace** - IoT & Hardware Integration Specialist | [GitHub](https://github.com/caroline-grace)
+- **Nasrin Fathima** - Team Leader & Project Coordinator | 
+- **Siva** - Developer | https://github.com/siva-mariappan
+- **Essaki Raja** - Developer | https://github.com/essakirajas
+- **Caroline Grace** - IoT & Hardware Integration Specialist | 
 
 ### Key Features
 
