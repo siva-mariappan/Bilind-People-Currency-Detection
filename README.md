@@ -11,7 +11,7 @@ This is an **Ideation Laboratory project** where our team identifies social-rela
 #### Team Members
 
 - **Nasrin Fathima** - Team Leader & Project Coordinator | [GitHub](https://github.com/nasrin-fathima)
-- **Sivam** - Developer | [GitHub](https://github.com/sivam)
+- **Siva** - Developer | [GitHub](https://github.com/sivam)
 - **Essaki Raja** - Developer | [GitHub](https://github.com/essaki-raja)
 - **Caroline Grace** - IoT & Hardware Integration Specialist | [GitHub](https://github.com/caroline-grace)
 
@@ -35,12 +35,6 @@ To get started with the **Blind People Currency Detector**, simply download the 
 ### Contributing
 
 We welcome contributions to enhance the app's functionality and improve its accessibility features. Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for more information on how you can get involved.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE), which allows you to freely use, modify, and distribute the software.
-
-For more information, updates, and support, please visit the [GitHub Repository](https://github.com/your-repo).
 
 ---
 
