@@ -4,6 +4,17 @@
 
 The **Blind People Currency Detector** is an innovative mobile application designed to enhance financial autonomy and inclusivity for individuals with visual impairments. This app utilizes advanced image recognition algorithms to identify and distinguish various currency denominations through the smartphone's camera.
 
+### Project Information
+
+This is an **Ideation Laboratory project** where our team identifies social-related problems and develops innovative solutions to address them. Through collaborative effort and technical expertise, we aim to create assistive technologies that make a meaningful impact on people's lives.
+
+#### Team Members
+
+- **Nasrin Fathima** - Team Leader & Project Coordinator | [GitHub](https://github.com/nasrin-fathima)
+- **Sivam** - Developer | [GitHub](https://github.com/sivam)
+- **Essaki Raja** - Developer | [GitHub](https://github.com/essaki-raja)
+- **Caroline Grace** - IoT & Hardware Integration Specialist | [GitHub](https://github.com/caroline-grace)
+
 ### Key Features
 
 - **Real-Time Audio Feedback**: Provides instant and accurate information about recognized banknotes via synthetic speech, allowing users to identify currency without external assistance.

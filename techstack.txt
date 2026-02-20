@@ -1,0 +1,50 @@
+# Technology Stack - Blind People Currency Detector
+
+## Programming Language
+- Python 3.x
+
+## Machine Learning & Computer Vision
+- YOLOv8 (Ultralytics) - Object detection model for currency recognition
+- PyTorch - Deep learning framework
+- TorchVision - Computer vision library
+- OpenCV (cv2) - Image processing and computer vision
+
+## Web Frameworks
+- Flask - Backend web framework for REST API
+- Streamlit - Interactive web application framework
+
+## Audio & Accessibility
+- pyttsx3 - Text-to-speech engine for audio feedback
+- Web Speech API - Browser-based speech synthesis
+
+## Data Processing & Analysis
+- NumPy - Numerical computing
+- Pandas - Data manipulation and analysis
+- Pillow (PIL) - Image processing
+
+## Deep Learning & Model Training
+- ONNX Runtime - Model inference optimization
+- Supervision - Computer vision utilities
+
+## Additional Libraries
+- Matplotlib - Data visualization
+- Seaborn - Statistical data visualization
+- SciPy - Scientific computing
+- scikit-image - Image processing algorithms
+
+## Development Tools
+- Git - Version control
+- pip - Package management
+
+## Hardware Requirements
+- Camera/Webcam - For real-time currency detection
+- Speakers/Audio output - For voice feedback
+
+## Model Files
+- yolov8.pt - YOLOv8 model trained for 50 and 100 rupee notes
+- yolov8x.pt - YOLOv8 extended model trained for all currency denominations
+
+## Deployment Options
+- Local Python environment
+- Web-based deployment (Flask/Streamlit)
+- Potential mobile deployment (future scope)
